@@ -29,7 +29,7 @@ layout {
 
 /* Shift between three colors */
 @keyframes rgb {
-  0% {
+  0%,100% {
     background-color: red;
   }
   33% {
@@ -37,9 +37,6 @@ layout {
   }
   66% {
     background-color: blue;
-  }
-  100% {
-    background-color: red;
   }
 }
 
