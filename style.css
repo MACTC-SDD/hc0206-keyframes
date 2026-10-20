@@ -55,7 +55,7 @@ layout {
     transform: translateX(0px) translateY(-200px);
   }
   100% {
-    transform: transate(0px,0px);
+    transform: translate(0px,0px);
   }
 }
 
